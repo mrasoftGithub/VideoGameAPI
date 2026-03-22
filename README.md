@@ -1,1 +1,3 @@
-# VideoGameAPI _GitHub
+# VideoGameAPI
+
+Een Web API project met Entity Framework.
